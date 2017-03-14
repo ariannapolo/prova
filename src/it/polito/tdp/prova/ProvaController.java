@@ -1,6 +1,6 @@
 package it.polito.tdp.prova;
 
 public class ProvaController {
-	private String bottone;
+	private String bottone= "ciao";
 	
 }
